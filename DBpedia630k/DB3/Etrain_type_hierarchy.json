@@ -1,0 +1,299 @@
+{
+  "Company": {
+    "occurrence": 3868,
+    "Bank": 210,
+    "Brewery": 16,
+    "Caterer": 0,
+    "LawFirm": 39,
+    "PublicTransitSystem": {
+      "occurrence": 6,
+      "Airline": 316,
+      "BusCompany": 153
+    },
+    "Publisher": 94,
+    "RecordLabel": 239,
+    "Winery": 34
+  },
+  "EducationalInstitute": {
+    "occurrence": 0,
+    "College": 7,
+    "Library": 4,
+    "School": 2603,
+    "University": 2265
+  },
+  "Artist": {
+    "occurrence": 584,
+    "Actor": {
+      "occurrence": 69,
+      "AdultActor": 21,
+      "VoiceActor": 1
+    },
+    "Comedian": 50,
+    "ComicsCreator": 95,
+    "Dancer": 0,
+    "FashionDesigner": 19,
+    "Humorist": 0,
+    "MusicalArtist": {
+      "occurrence": 1977,
+      "BackScene": 0,
+      "ClassicalMusicArtist": 1,
+      "Instrumentalist": {
+        "occurrence": 0,
+        "Guitarist": 1
+      },
+      "MusicDirector": 0,
+      "Singer": 0
+    },
+    "Painter": 82,
+    "Photographer": 3,
+    "Sculptor": 0
+  },
+  "Athlete": {
+    "occurrence": 224,
+    "ArcherPlayer": 0,
+    "AthleticsPlayer": 0,
+    "AustralianRulesFootballPlayer": 44,
+    "BadmintonPlayer": 5,
+    "BaseballPlayer": 320,
+    "BasketballPlayer": 113,
+    "Bodybuilder": 2,
+    "Boxer": {
+      "occurrence": 21,
+      "AmateurBoxer": 3
+    },
+    "BullFighter": 0,
+    "Canoeist": 3,
+    "ChessPlayer": 21,
+    "Cricketer": 63,
+    "Cyclist": 91,
+    "DartsPlayer": 0,
+    "Fencer": 0,
+    "GaelicGamesPlayer": 2,
+    "GolfPlayer": 20,
+    "GridironFootballPlayer": {
+      "occurrence": 0,
+      "AmericanFootballPlayer": 117,
+      "CanadianFootballPlayer": 0
+    },
+    "Gymnast": 13,
+    "HandballPlayer": 21,
+    "HighDiver": 0,
+    "HorseRider": 0,
+    "Jockey": 5,
+    "LacrossePlayer": 2,
+    "MartialArtist": 27,
+    "MotorsportRacer": {
+      "occurrence": 0,
+      "MotorcycleRider": {
+        "occurrence": 16,
+        "MotocycleRacer": 0,
+        "SpeedwayRider": 7
+      },
+      "RacingDriver": {
+        "occurrence": 28,
+        "DTMRacer": 0,
+        "FormulaOneRacer": 12,
+        "NascarDriver": 12,
+        "RallyDriver": 0
+      }
+    },
+    "NationalCollegiateAthleticAssociationAthlete": 0,
+    "NetballPlayer": 2,
+    "PokerPlayer": 11,
+    "Rower": 2,
+    "RugbyPlayer": 132,
+    "SnookerPlayer": {
+      "occurrence": 3,
+      "SnookerChamp": 0
+    },
+    "SoccerPlayer": 731,
+    "SquashPlayer": 3,
+    "Surfer": 0,
+    "Swimmer": 17,
+    "TableTennisPlayer": 5,
+    "TeamMember": 0,
+    "TennisPlayer": 52,
+    "VolleyballPlayer": 22,
+    "BeachVolleyballPlayer": 0,
+    "WaterPoloPlayer": 0,
+    "WinterSportPlayer": {
+      "occurrence": 0,
+      "Biathlete": 0,
+      "BobsleighAthlete": 0,
+      "CrossCountrySkier": 0,
+      "Curler": 1,
+      "FigureSkater": 33,
+      "IceHockeyPlayer": 163,
+      "NordicCombined": 0,
+      "Skater": 8,
+      "Ski_jumper": 0,
+      "Skier": 31,
+      "SpeedSkater": 0
+    },
+    "Wrestler": {
+      "occurrence": 47,
+      "SumoWrestler": 5
+    }
+  },
+  "OfficeHolder": 3021,
+  "MeanOfTransportation": {
+    "occurrence": 0,
+    "Aircraft": {
+      "occurrence": 1146,
+      "MilitaryAircraft": 0
+    },
+    "Automobile": 819,
+    "Locomotive": 408,
+    "MilitaryVehicle": 0,
+    "Motorcycle": 137,
+    "On-SiteTransportation": {
+      "occurrence": 0,
+      "ConveyorSystem": 0,
+      "Escalator": 0,
+      "MovingWalkway": 0
+    },
+    "Rocket": 41,
+    "Ship": 3203,
+    "SpaceShuttle": 4,
+    "SpaceStation": 5,
+    "Spacecraft": 0,
+    "Train": 179,
+    "TrainCarriage": 0,
+    "Tram": 0
+  },
+  "Building": {
+    "occurrence": 4194,
+    "Casino": 0,
+    "Castle": 118,
+    "Factory": 0,
+    "HistoricBuilding": 657,
+    "Hospital": 220,
+    "Hotel": 116,
+    "Museum": 457,
+    "Prison": 79,
+    "ReligiousBuilding": {
+      "occurrence": 332,
+      "Church": 0,
+      "Monastery": 0,
+      "Mosque": 0,
+      "Shrine": 0,
+      "Synagogue": 0,
+      "Temple": 0
+    },
+    "Restaurant": 79,
+    "ShoppingMall": 197,
+    "Skyscraper": 0,
+    "Venue": {
+      "occurrence": 15,
+      "Cinema": 1,
+      "Stadium": 7,
+      "Theatre": 3
+    }
+  },
+  "NaturalPlace": {
+    "occurrence": 0,
+    "Archipelago": 0,
+    "Beach": 0,
+    "BodyOfWater": {
+      "occurrence": 781,
+      "Bay": 1,
+      "Lake": 246,
+      "Ocean": 0,
+      "Sea": 11,
+      "Stream": {
+        "occurrence": 0,
+        "Canal": 25,
+        "River": 1908
+      }
+    },
+    "Cape": 0,
+    "Cave": 37,
+    "Crater": {
+      "occurrence": 216,
+      "LunarCrater": 0
+    },
+    "Desert": 0,
+    "Forest": 0,
+    "Glacier": 65,
+    "HotSpring": 0,
+    "Mountain": 1731,
+    "MountainPass": 98,
+    "MountainRange": 121,
+    "Valley": 0,
+    "Volcano": 97
+  },
+  "Village": 5927,
+  "Animal": {
+    "occurrence": 72,
+    "Amphibian": 7,
+    "Arachnid": 29,
+    "Bird": 2,
+    "Crustacean": 42,
+    "Fish": 106,
+    "Insect": 1722,
+    "Mammal": {
+      "occurrence": 16,
+      "Cat": 0,
+      "Dog": 0,
+      "Horse": 45
+    },
+    "Mollusca": 376,
+    "Reptile": 11
+  },
+  "Plant": {
+    "occurrence": 1293,
+    "ClubMoss": 0,
+    "Conifer": 4,
+    "CultivatedVariety": 79,
+    "Cycad": 0,
+    "Fern": 3,
+    "FloweringPlant": {
+      "occurrence": 1,
+      "Grape": 53
+    },
+    "Ginkgo": 0,
+    "Gnetophytes": 0,
+    "GreenAlga": 3,
+    "Moss": 15
+  },
+  "Album": 6209,
+  "Film": 5079,
+  "WrittenWork": {
+    "occurrence": 63,
+    "Annotation": {
+      "Reference": 0
+    },
+    "Article": 0,
+    "Book": {
+      "occurrence": 3658,
+      "Novel": {
+        "occurrence": 0,
+        "LightNovel": 0
+      }
+    },
+    "Comic": {
+      "occurrence": 246,
+      "ComicStrip": 12,
+      "Manga": 309,
+      "Manhua": 0,
+      "Manhwa": 0
+    },
+    "Drama": 0,
+    "Law": 0,
+    "Letter": 0,
+    "MultiVolumePublication": 0,
+    "PeriodicalLiterature": {
+      "occurrence": 0,
+      "AcademicJournal": 421,
+      "Magazine": 374,
+      "Newspaper": 444,
+      "UndergroundJournal": 0
+    },
+    "Play": 114,
+    "Poem": 12,
+    "Quote": 0,
+    "Resume": 0,
+    "StatedResolution": 0,
+    "Treaty": 0
+  }
+}
