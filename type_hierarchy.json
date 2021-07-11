@@ -1,0 +1,299 @@
+{
+  "Company": {
+    "occurrence": 0,
+    "Bank": 0,
+    "Brewery": 0,
+    "Caterer": 0,
+    "LawFirm": 0,
+    "PublicTransitSystem": {
+      "occurrence": 0,
+      "Airline": 0,
+      "BusCompany": 0
+    },
+    "Publisher": 0,
+    "RecordLabel": 0,
+    "Winery": 0
+  },
+  "EducationalInstitute": {
+    "occurrence": 0,
+    "College": 0,
+    "Library": 0,
+    "School": 0,
+    "University": 0
+  },
+  "Artist": {
+    "occurrence": 0,
+    "Actor": {
+      "occurrence": 0,
+      "AdultActor": 0,
+      "VoiceActor": 0
+    },
+    "Comedian": 0,
+    "ComicsCreator": 0,
+    "Dancer": 0,
+    "FashionDesigner": 0,
+    "Humorist": 0,
+    "MusicalArtist": {
+      "occurrence": 0,
+      "BackScene": 0,
+      "ClassicalMusicArtist": 0,
+      "Instrumentalist": {
+        "occurrence": 0,
+        "Guitarist": 0
+      },
+      "MusicDirector": 0,
+      "Singer": 0
+    },
+    "Painter": 0,
+    "Photographer": 0,
+    "Sculptor": 0
+  },
+  "Athlete": {
+    "occurrence": 0,
+    "ArcherPlayer": 0,
+    "AthleticsPlayer": 0,
+    "AustralianRulesFootballPlayer": 0,
+    "BadmintonPlayer": 0,
+    "BaseballPlayer": 0,
+    "BasketballPlayer": 0,
+    "Bodybuilder": 0,
+    "Boxer": {
+      "occurrence": 0,
+      "AmateurBoxer": 0
+    },
+    "BullFighter": 0,
+    "Canoeist": 0,
+    "ChessPlayer": 0,
+    "Cricketer": 0,
+    "Cyclist": 0,
+    "DartsPlayer": 0,
+    "Fencer": 0,
+    "GaelicGamesPlayer": 0,
+    "GolfPlayer": 0,
+    "GridironFootballPlayer": {
+      "occurrence": 0,
+      "AmericanFootballPlayer": 0,
+      "CanadianFootballPlayer": 0
+    },
+    "Gymnast": 0,
+    "HandballPlayer": 0,
+    "HighDiver": 0,
+    "HorseRider": 0,
+    "Jockey": 0,
+    "LacrossePlayer": 0,
+    "MartialArtist": 0,
+    "MotorsportRacer": {
+      "occurrence": 0,
+      "MotorcycleRider": {
+        "occurrence": 0,
+        "MotocycleRacer": 0,
+        "SpeedwayRider": 0
+      },
+      "RacingDriver": {
+        "occurrence": 0,
+        "DTMRacer": 0,
+        "FormulaOneRacer": 0,
+        "NascarDriver": 0,
+        "RallyDriver": 0
+      }
+    },
+    "NationalCollegiateAthleticAssociationAthlete": 0,
+    "NetballPlayer": 0,
+    "PokerPlayer": 0,
+    "Rower": 0,
+    "RugbyPlayer": 0,
+    "SnookerPlayer": {
+      "occurrence": 0,
+      "SnookerChamp": 0
+    },
+    "SoccerPlayer": 0,
+    "SquashPlayer": 0,
+    "Surfer": 0,
+    "Swimmer": 0,
+    "TableTennisPlayer": 0,
+    "TeamMember": 0,
+    "TennisPlayer": 0,
+    "VolleyballPlayer": 0,
+    "BeachVolleyballPlayer": 0,
+    "WaterPoloPlayer": 0,
+    "WinterSportPlayer": {
+      "occurrence": 0,
+      "Biathlete": 0,
+      "BobsleighAthlete": 0,
+      "CrossCountrySkier": 0,
+      "Curler": 0,
+      "FigureSkater": 0,
+      "IceHockeyPlayer": 0,
+      "NordicCombined": 0,
+      "Skater": 0,
+      "Ski_jumper": 0,
+      "Skier": 0,
+      "SpeedSkater": 0
+    },
+    "Wrestler": {
+      "occurrence": 0,
+      "SumoWrestler": 0
+    }
+  },
+  "OfficeHolder": 0,
+  "MeanOfTransportation": {
+    "occurrence": 0,
+    "Aircraft": {
+      "occurrence": 0,
+      "MilitaryAircraft": 0
+    },
+    "Automobile": 0,
+    "Locomotive": 0,
+    "MilitaryVehicle": 0,
+    "Motorcycle": 0,
+    "On-SiteTransportation": {
+      "occurrence": 0,
+      "ConveyorSystem": 0,
+      "Escalator": 0,
+      "MovingWalkway": 0
+    },
+    "Rocket": 0,
+    "Ship": 0,
+    "SpaceShuttle": 0,
+    "SpaceStation": 0,
+    "Spacecraft": 0,
+    "Train": 0,
+    "TrainCarriage": 0,
+    "Tram": 0
+  },
+  "Building": {
+    "occurrence": 0,
+    "Casino": 0,
+    "Castle": 0,
+    "Factory": 0,
+    "HistoricBuilding": 0,
+    "Hospital": 0,
+    "Hotel": 0,
+    "Museum": 0,
+    "Prison": 0,
+    "ReligiousBuilding": {
+      "occurrence": 0,
+      "Church": 0,
+      "Monastery": 0,
+      "Mosque": 0,
+      "Shrine": 0,
+      "Synagogue": 0,
+      "Temple": 0
+    },
+    "Restaurant": 0,
+    "ShoppingMall": 0,
+    "Skyscraper": 0,
+    "Venue": {
+      "occurrence": 0,
+      "Cinema": 0,
+      "Stadium": 0,
+      "Theatre": 0
+    }
+  },
+  "NaturalPlace": {
+    "occurrence": 0,
+    "Archipelago": 0,
+    "Beach": 0,
+    "BodyOfWater": {
+      "occurrence": 0,
+      "Bay": 0,
+      "Lake": 0,
+      "Ocean": 0,
+      "Sea": 0,
+      "Stream": {
+        "occurrence": 0,
+        "Canal": 0,
+        "River": 0
+      }
+    },
+    "Cape": 0,
+    "Cave": 0,
+    "Crater": {
+      "occurrence": 0,
+      "LunarCrater": 0
+    },
+    "Desert": 0,
+    "Forest": 0,
+    "Glacier": 0,
+    "HotSpring": 0,
+    "Mountain": 0,
+    "MountainPass": 0,
+    "MountainRange": 0,
+    "Valley": 0,
+    "Volcano": 0
+  },
+  "Village": 0,
+  "Animal": {
+    "occurrence": 0,
+    "Amphibian": 0,
+    "Arachnid": 0,
+    "Bird": 0,
+    "Crustacean": 0,
+    "Fish": 0,
+    "Insect": 0,
+    "Mammal": {
+      "occurrence": 0,
+      "Cat": 0,
+      "Dog": 0,
+      "Horse": 0
+    },
+    "Mollusca": 0,
+    "Reptile": 0
+  },
+  "Plant": {
+    "occurrence": 0,
+    "ClubMoss": 0,
+    "Conifer": 0,
+    "CultivatedVariety": 0,
+    "Cycad": 0,
+    "Fern": 0,
+    "FloweringPlant": {
+      "occurrence": 0,
+      "Grape": 0
+    },
+    "Ginkgo": 0,
+    "Gnetophytes": 0,
+    "GreenAlga": 0,
+    "Moss": 0
+  },
+  "Album": 0,
+  "Film": 0,
+  "WrittenWork": {
+    "occurrence": 0,
+    "Annotation": {
+      "Reference": 0
+    },
+    "Article": 0,
+    "Book": {
+      "occurrence": 0,
+      "Novel": {
+        "occurrence": 0,
+        "LightNovel": 0
+      }
+    },
+    "Comic": {
+      "occurrence": 0,
+      "ComicStrip": 0,
+      "Manga": 0,
+      "Manhua": 0,
+      "Manhwa": 0
+    },
+    "Drama": 0,
+    "Law": 0,
+    "Letter": 0,
+    "MultiVolumePublication": 0,
+    "PeriodicalLiterature": {
+      "occurrence": 0,
+      "AcademicJournal": 0,
+      "Magazine": 0,
+      "Newspaper": 0,
+      "UndergroundJournal": 0
+    },
+    "Play": 0,
+    "Poem": 0,
+    "Quote": 0,
+    "Resume": 0,
+    "StatedResolution": 0,
+    "Treaty": 0
+  }
+}
