@@ -1,2 +1,5 @@
 "old_name","old_type","new_name","first_level","second_level","third_level","fourth_level"
 "<http://dbpedia.org/resource/110_Plaza>","6","<http://dbpedia.org/resource/110_Plaza>","Building"
+"<http://dbpedia.org/resource/Albula_(genus)>","9","<http://dbpedia.org/resource/Albula_(fish)>","Animal","Fish"
+"<http://dbpedia.org/resource/Alexander_Y_Type>","5","<http://dbpedia.org/resource/Alexander_Y_Type>","MeanOfTransportation","Automobile"
+"<http://dbpedia.org/resource/Akizuki-class_destroyer_(1959)>","5","<http://dbpedia.org/resource/Akizuki-class_destroyer_(1959)>","MeanOfTransportation","Ship"
